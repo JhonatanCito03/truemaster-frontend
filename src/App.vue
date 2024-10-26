@@ -1,6 +1,5 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
-import Empleados from './components/Empleados.vue'
 </script>
 
 <template>
